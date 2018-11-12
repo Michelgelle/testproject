@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Domain;
 
-final class Bus
+final class Train
 {
     /** @var LineId */
     private $lineId;
